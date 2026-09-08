@@ -71,3 +71,6 @@ python3 -m unittest discover -s tests -v
 ```
 
 Tests use synthetic workbook fixtures, never fabricated live polling data. See `VERIFICATION.md` for the completed live and installation checks.
+
+
+Generated with Codex.
